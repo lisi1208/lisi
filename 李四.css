@@ -1,0 +1,174 @@
+#container{
+    background-color:lightgrey;
+    margin: 0 15%;
+}
+h1{
+    height: 70px;
+    color: aliceblue;
+    background-color:lightcoral;
+    line-height: 70px;
+    text-indent: 70px;
+}
+/**
+导航
+*/
+#nav{
+    text-align:center ;/*居中*/
+}
+#nav li{
+    display: inline-block;/*行内快捷元素*/
+    width: 100px;
+    height: 30px;
+    background-color: lightcoral;
+    line-height: 30px;
+    
+    border: 1px solid lightcoral;
+    border-radius: 0 10px;/*圆角*/
+
+}
+#nav li a{
+    text-decoration: none;/*去除文本修饰*/
+    color: aliceblue;
+}
+/*a标签伪类*/
+#nav li a:hover{
+     font-weight: bold;
+     color:aqua;
+
+}
+.center{
+    text-align:center;
+}
+.margin{
+    margin: 0 30px;/*外边距*/
+    text-align: center;
+}
+#userinfo.word{
+    text-indent: 30px;/*首行间距*/
+}
+textarea{
+    width: 100%;
+    height: 100px;
+}
+h1{
+    height: 70px;
+    color: aliceblue;
+    background-color:lightcoral;
+    line-height: 70px;
+    text-indent: 70px;
+}
+#chichi{
+    background-color:lightgrey;
+    margin: 0 15%;
+    text-align: center;
+}
+h1{
+    height: 70px;
+    color: aliceblue;
+    background-color:lightcoral;
+    line-height: 70px;
+    text-indent: 70px;
+}
+.margin2{
+    margin: 0 30px;/*外边距*/
+    text-align: center;
+}
+#userinfo2.word{
+    text-indent: 30px;/*首行间距*/
+}
+h1{
+    height: 70px;
+    color: aliceblue;
+    background-color:lightcoral;
+    line-height: 70px;
+    text-indent: 70px;
+}
+#wanwan{
+
+  background-color:lightgrey;
+    margin: 0 15%;
+    text-align: center;
+}
+h1{
+        height: 70px;
+        color: aliceblue;
+        background-color:lightcoral;
+        line-height: 70px;
+        text-indent: 70px;
+     }
+
+.margin3{
+    margin: 0 30px;/*外边距*/
+    text-align: center;
+}
+#userinfo3.word{
+    text-indent: 30px;/*首行间距*/
+}
+h1{
+    height: 70px;
+    color: aliceblue;
+    background-color:lightcoral;
+    line-height: 70px;
+    text-indent: 70px;
+}
+#meihao{
+
+    background-color:lightgrey;
+      margin: 0 15%;
+      text-align: center;
+  }
+  h1{
+          height: 70px;
+          color: aliceblue;
+          background-color:lightcoral;
+          line-height: 70px;
+          text-indent: 70px;
+       }
+  
+  .margin4{
+      margin: 0 30px;/*外边距*/
+      text-align: center;
+  }
+  #userinfo4.word{
+      text-indent: 30px;/*首行间距*/
+  }
+  h1{
+      height: 70px;
+      color: aliceblue;
+      background-color:lightcoral;
+      line-height: 70px;
+      text-indent: 70px;
+  }
+  #haibian{
+
+    background-color:lightgrey;
+      margin: 0 15%;
+      text-align: center;
+  }
+  h1{
+          height: 70px;
+          color: aliceblue;
+          background-color:lightcoral;
+          line-height: 70px;
+          text-indent: 70px;
+       }
+  
+  .margin5{
+      margin: 0 30px;/*外边距*/
+      text-align: center;
+  }
+  #userinfo5.word{
+      text-indent: 30px;/*首行间距*/
+  }
+  h1{
+      height: 70px;
+      color: aliceblue;
+      background-color:lightcoral;
+      line-height: 70px;
+      text-indent: 70px;
+  }
+  
+
+
+  
+
